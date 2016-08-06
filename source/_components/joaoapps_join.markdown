@@ -15,7 +15,7 @@ ha_release: "0.24"
 
 The Join platform exposes services from [Join](http://joaoapps.com/join).  In Home Assistant, the Join features are divided up in two locations, the Join component, and the Join notify platform.  The notify platform allows us to send messages to Join devices, the the component allows us to access the other special features that Join offers.
 
-In the configuartion.yaml you need to provide the device id of the target device. If you want to send to a group of devices, you need to provide an api key.  You can find you device id and api key [here](https://joinjoaomgcd.appspot.com/). 
+In the configuration.yaml you need to provide the device id of the target device. If you want to send to a group of devices, you need to provide an api key.  You can find you device id and api key [here](https://joinjoaomgcd.appspot.com/). 
 
 To set it up, add the following information to your `configuration.yaml` file:
 
