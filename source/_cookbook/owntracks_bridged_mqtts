@@ -1,4 +1,4 @@
-{% linkable_title Setting up OwnTracks with 2 MQTT (mosquitto) brokers bridged for use with the MQTT bridge for SmartThings %}
+### {% linkable_title Setting up OwnTracks with 2 MQTT (mosquitto) brokers bridged for use with the MQTT bridge for SmartThings %}
 
 I successfully tied in OwnTracks to HASS and SmartThings while using authentication for external access.
 
