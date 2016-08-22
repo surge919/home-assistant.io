@@ -1,3 +1,15 @@
+---
+layout: page
+title: "OwnTracks setup with bridged MQTTs"
+description: "Procedure to get OwnTracks working with 2 bridged MQTTs"
+date: 2016-08-22 12:33
+sidebar: true
+comments: true
+sharing: true
+footer: true
+ha_category: Automation Examples
+---
+
 ### {% linkable_title Setting up OwnTracks with 2 MQTT (mosquitto) brokers bridged for use with the MQTT bridge for SmartThings %}
 
 I successfully tied in OwnTracks to HASS and SmartThings while using authentication for external access.
